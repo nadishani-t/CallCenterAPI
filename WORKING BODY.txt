@@ -1,0 +1,41 @@
+{
+     "marketing_code_range":{
+      "start":"A001",
+      "end":"ZZZZ"
+   },
+   "rental_amount_range":{
+      "min":10000,
+      "max":150000
+   },
+   "balance_amount_range":{
+      "min":10000,
+      "max":150000
+   },
+   "arrears_amount_range":{
+      "min":10000,
+      "max":150000
+   },
+   "insurance_amount_range":{
+      "min":10000,
+      "max":150000
+   },
+   "arrears_months":{
+      "min":1,
+      "max":3
+   },
+   "capital_outstanding":{
+      "min":10000,
+      "max":150000
+   },
+   "rental_due_range":{
+      "startTime":"2018:02:24 12:00:00",
+      "endTime":"2021:02:24 12:00:00"
+   },
+     "activated_date_range":{
+      "startTime":"2018:02:24 12:00:00",
+      "endTime":"2021:02:24 12:00:00"
+   }
+}
+   
+   
+   
